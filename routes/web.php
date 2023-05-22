@@ -13,7 +13,6 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-//laravel 8 multirole
 
 Route::get('/', function () {
     return view('welcome');
